@@ -1,7 +1,7 @@
 ! Title: Fcorp
 ! Description: Fcorp
 ! Homepage: https://github.com/ny4rlk0/AdBlockListPiHole
-! Last modified: 07 Jul 2025 21:47 UTC
+! Last modified: 08 Jul 2025 00:23 TSi
 ! Number of entries: -
 0.0.0.0 amazonclix.com
 0.0.0.0 amazonaax.com
