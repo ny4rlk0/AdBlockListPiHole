@@ -3,6 +3,8 @@
 ! Homepage: https://github.com/ny4rlk0/AdBlockListPiHole
 ! Last modified: 07 Jul 2025 21:47 UTC
 ! Number of entries: -
+0.0.0.0 8.8.8.8
+0.0.0.0 8.8.4.4
 0.0.0.0 adtago.s3.amazonaws.com
 0.0.0.0 analyticsengine.s3.amazonaws.com
 0.0.0.0 analytics.s3.amazonaws.com
